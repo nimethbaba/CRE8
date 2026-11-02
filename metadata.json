@@ -1,0 +1,6 @@
+{
+  "name": "CRE8 CNC Precision Studio",
+  "description": "Bespoke CNC fabrication studio showcasing precision-milled designs in wood, acrylic, and metal with real-time 3D interactive remix and custom sign generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
